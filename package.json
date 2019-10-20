@@ -6,6 +6,7 @@
   "scripts": {
     "start:Command": "tsc && node ./dist/Command/index.js",
     "start:Mediator": "tsc && node ./dist/Mediator/index.js",
+    "start:Observer": "tsc && node ./dist/Observer/index.js",
     "start:Strategy": "tsc && node ./dist/Strategy/index.js"
   },
   "keywords": [],
