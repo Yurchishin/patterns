@@ -8,7 +8,8 @@
     "start:Mediator": "tsc && node ./dist/Mediator/index.js",
     "start:Observer": "tsc && node ./dist/Observer/index.js",
     "start:Strategy": "tsc && node ./dist/Strategy/index.js",
-    "start:Visitor": "tsc && node ./dist/Visitor/index.js"
+    "start:Visitor": "tsc && node ./dist/Visitor/index.js",
+    "start:State": "tsc && node ./dist/State/index.js"
   },
   "keywords": [],
   "author": "",
